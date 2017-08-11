@@ -15,9 +15,9 @@ Need help?
 
 If you are experiencing harassment on or have concerns about content within the [GitHub repo](https://github.com/papers-we-love/papers-we-love), the **#paperswelove** IRC channel on Freenode, the **paperswelove.slack.com** Slack, or [PapersWeLove.org](http://paperswelove.org) please contact:
 
-- **Organizer name** [org@email.com](mailto:org@email.com)
-- **Organizer name** [org@email.com](mailto:org@email.com)
-- **All** [contact@paperswelove.org](mailto:contact@paperswelove.org)
+- **Wesley Beary**: [meetup](https://secure.meetup.com/messages/?new_convo=true&member_id=5784994&name=Wesley+Beary) | [slack](https://techcorridorio.slack.com/messages/@geemus) | [twitter](https://twitter.com/geemus)
+- **Joel Jeddeloh**: [meetup](https://secure.meetup.com/messages/?new_convo=true&member_id=106897172&name=Joel+Jeddeloh) | [slack](https://techcorridorio.slack.com/messages/@jeddeloh) | [twitter](https://twitter.com/jjeddeloh)
+- **All**: [contact@paperswelove.org](mailto:contact@paperswelove.org)
 
 The organizers of your local Papers We Love meet-up/event are available to help you with any issues or concerns at live events.
 
