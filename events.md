@@ -1,4 +1,5 @@
 # Papers-We-Love Iowa City Events
 
-* [2017-09-27](https://www.meetup.com/techcorridorio/events/242899046/) - [Bitcoin - A Peer-to-Peer Electronic Cash System](https://github.com/papers-we-love/papers-we-love/blob/5a54fa883a813e81b1e54bfed9669fc8961dedb4/digital_currency/bitcoin.pdf)
-* [2017-10-26](https://www.meetup.com/techcorridorio/events/243962416/) - [Out of the Tar Pit](https://github.com/papers-we-love/papers-we-love/blob/master/design/out-of-the-tar-pit.pdf)
+* [2017-09-27](https://www.meetup.com/techcorridorio/events/242899046/) [Bitcoin - A Peer-to-Peer Electronic Cash System](https://github.com/papers-we-love/papers-we-love/blob/5a54fa883a813e81b1e54bfed9669fc8961dedb4/digital_currency/bitcoin.pdf)
+* [2017-10-26](https://www.meetup.com/techcorridorio/events/243962416/) [Out of the Tar Pit](https://github.com/papers-we-love/papers-we-love/blob/master/design/out-of-the-tar-pit.pdf)
+* [2017-12-12](https://www.meetup.com/techcorridorio/events/245477689/) [On Designing and Deploying Internet-Scale Services](https://www.usenix.org/legacy/event/lisa07/tech/full_papers/hamilton/hamilton_html/index.html)
